@@ -1,0 +1,18 @@
+.Home {
+  margin: 0 auto;
+  width: 960px;
+}
+
+.Home h1 {
+  font-size: 32px;
+  color: #333;
+}
+.Home p {
+  color: #333;
+  text-align: center;
+}
+
+.Home a {
+  color: #ffffff;
+  text-decoration: none;
+}

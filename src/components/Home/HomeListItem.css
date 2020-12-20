@@ -1,0 +1,19 @@
+.HomeListItem {
+    width: 27%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.description {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: small;
+}
+
+.price {
+    white-space: nowrap;
+    overflow: hidden;
+    color: blue;
+    font-size: 16px;
+}
